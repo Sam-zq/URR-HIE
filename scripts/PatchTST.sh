@@ -1,6 +1,4 @@
 export CUDA_VISIBLE_DEVICES=0
-export TORCH_CUDNN_V8_API_DISABLED=1
-cd /home/zhao/fu/Time-Series-Library-main/
 model_name=PatchTST
 #
 python -u run.py \
