@@ -1,5 +1,4 @@
 export CUDA_VISIBLE_DEVICES=0
-cd /home/zhao/fu/Time-Series-Library-main/
 model_name=DLinear
 pred_len=96
 #for  pred_len in  192  720
