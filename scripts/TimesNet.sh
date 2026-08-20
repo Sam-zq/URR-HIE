@@ -1,5 +1,4 @@
 export CUDA_VISIBLE_DEVICES=0
-cd /home/zhao/fu/Time-Series-Library-main/
 model_name=TimesNet
 
 python -u run.py \
