@@ -1,7 +1,5 @@
 export CUDA_VISIBLE_DEVICES=0
-export TORCH_CUDNN_V8_API_DISABLED=1
-cd /home/zhao/fu/Time-Series-Library-main/
-model_name=TimeXer2
+model_name=TimeXer
 pred_len=96
 #for  pred_len in  192 336 720
 # do
