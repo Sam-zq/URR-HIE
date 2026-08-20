@@ -205,5 +205,5 @@ Add a `LICENSE` file before archival release. A permissive license such as MIT o
 
 ## Contact
 
-For questions about the implementation or experimental settings, contact Xinwei Li at `lixinwei@hpu.edu.cn`.
+For questions about the implementation or experimental settings, contact Xinwei Li at `sam111@hpu.edu.cn`.
 
