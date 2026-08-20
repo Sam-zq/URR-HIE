@@ -25,7 +25,7 @@ python -u run.py \
   --enc_in 6 \
   --dec_in 6 \
   --batch_size 16 \
-  --c_out 1 \
+  --c_out 6 \
   --des 'Exp' \
   --itr 1
 
