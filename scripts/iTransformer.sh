@@ -1,8 +1,5 @@
 export CUDA_VISIBLE_DEVICES=0
-export TORCH_CUDNN_V8_API_DISABLED=1
-cd /home/zhao/fu/Time-Series-Library-main/
 model_name=iTransformer
-#model_name=n2
 #pred_len=96
 
 for  pred_len in 96 192 336 720
